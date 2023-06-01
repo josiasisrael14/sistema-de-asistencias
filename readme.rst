@@ -1,70 +1,40 @@
-###################
-What is CodeIgniter
-###################
+# Sistema-de-asistencia-Profesores
+# Hey there! :wave::smiley:
 
-CodeIgniter is an Application Development Framework - a toolkit - for people
-who build web sites using PHP. Its goal is to enable you to develop projects
-much faster than you could if you were writing code from scratch, by providing
-a rich set of libraries for commonly needed tasks, as well as a simple
-interface and logical structure to access these libraries. CodeIgniter lets
-you creatively focus on your project by minimizing the amount of code needed
-for a given task.
+<!--Introduction -->
+Hola soy jairo! soy **Programador Backend**:iphone:, realice un sistema de registro asistencia**este sistema esta realizado  en PHP framework Codeigniter **:earth_asia:. Me apasiona la programacion  ** este proyecto es fullstack tambien realice la implementacion del lado del frontend :computer: gracias por visitarme.
+<br>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>me encanta conectar con las personas sigueme en las siguientes redes sociales</em>
 
-*******************
-Release Information
-*******************
+<!-- Your badges -->
+[![Linkedin](https://img.shields.io/badge/-JairoAyllon-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jairo-andre-ayllon-cardenas-9bb46b202/)
+<!-- Profile View Count -->
+ 
+<!-- Working GIF -->
+<!--<img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/dev_object.png" alt="dev_object" align="right" width="500" height="250" />-->
 
-This repo contains in-development code for future releases. To download the
-latest stable release please visit the `CodeIgniter Downloads
-<https://codeigniter.com/download>`_ page.
+### 💼  Documentacion de Net Core MVC: 
+* https://www.codeigniter.com/user_guide/intro/index.html
+* https://codeigniter4.github.io/userguide/index.html
+  
+  <h1>Tecnologias Usadas</h1>
+  
+  <h2>Backend</h2>
+  .PHP CODEIGNITER</br>
+  .MYSQL</br>
+  
+  <h2>Frontend</h2>
+  .Html</br>
+  .Boostrap</br>
+  .Implementacion de plantilla Admitle</br>
+  .css estilos</br>
+  .javascript</br>
+  .jquery</br>
+  
+  <h1>Las entidades(clases)</h1></br>
+  
 
-**************************
-Changelog and New Features
-**************************
+ 
+ 
 
-You can find a list of all changes for each release in the `user
-guide change log <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/changelog.rst>`_.
 
-*******************
-Server Requirements
-*******************
-
-PHP version 5.6 or newer is recommended.
-
-It should work on 5.3.7 as well, but we strongly advise you NOT to run
-such old versions of PHP, because of potential security and performance
-issues, as well as missing features.
-
-************
-Installation
-************
-
-Please see the `installation section <https://codeigniter.com/user_guide/installation/index.html>`_
-of the CodeIgniter User Guide.
-
-*******
-License
-*******
-
-Please see the `license
-agreement <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/license.rst>`_.
-
-*********
-Resources
-*********
-
--  `User Guide <https://codeigniter.com/docs>`_
--  `Language File Translations <https://github.com/bcit-ci/codeigniter3-translations>`_
--  `Community Forums <http://forum.codeigniter.com/>`_
--  `Community Wiki <https://github.com/bcit-ci/CodeIgniter/wiki>`_
--  `Community Slack Channel <https://codeigniterchat.slack.com>`_
-
-Report security issues to our `Security Panel <mailto:security@codeigniter.com>`_
-or via our `page on HackerOne <https://hackerone.com/codeigniter>`_, thank you.
-
-***************
-Acknowledgement
-***************
-
-The CodeIgniter team would like to thank EllisLab, all the
-contributors to the CodeIgniter project and you, the CodeIgniter user.
