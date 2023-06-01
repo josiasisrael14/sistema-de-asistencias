@@ -1,7 +1,6 @@
 # Sistema-de-asistencia-Profesores
 # Hey there! :wave::smiley:
 
-<!--Introduction -->
 Hola soy jairo! soy **Programador Backend**:iphone:, realice un sistema de registro asistencia**este sistema esta realizado  en PHP framework Codeigniter **:earth_asia:. Me apasiona la programacion  ** este proyecto es fullstack tambien realice la implementacion del lado del frontend :computer: gracias por visitarme.
 <br>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>me encanta conectar con las personas sigueme en las siguientes redes sociales</em>
