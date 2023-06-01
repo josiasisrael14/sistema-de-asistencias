@@ -38,6 +38,11 @@ Hola soy jairo! soy **Programador Backend**:iphone:, realice un sistema de regis
   ![image](https://github.com/josiasisrael14/sistema-de-asistencias/assets/43103053/42557c92-5f06-45bc-b064-b7e2c8c7ec50)
 
   
+![image](https://github.com/josiasisrael14/sistema-de-asistencias/assets/43103053/2937a54b-552a-4a21-8376-587848eb5023)
+
+
+<h1>Modelo</h1></br>
+
 
 
   
