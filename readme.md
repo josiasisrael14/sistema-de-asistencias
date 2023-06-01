@@ -12,7 +12,7 @@ Hola soy jairo! soy **Programador Backend**:iphone:, realice un sistema de regis
 <!-- Working GIF -->
 <!--<img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/dev_object.png" alt="dev_object" align="right" width="500" height="250" />-->
 
-### 💼  Documentacion de Net Core MVC: 
+### 💼  Documentacion de PHP CODEIGNITER: 
 * https://www.codeigniter.com/user_guide/intro/index.html
 * https://codeigniter4.github.io/userguide/index.html
   
