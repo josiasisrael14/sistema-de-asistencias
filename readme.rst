@@ -31,7 +31,9 @@ Hola soy jairo! soy **Programador Backend**:iphone:, realice un sistema de regis
   .javascript</br>
   .jquery</br>
   
-  <h1>Las entidades(clases)</h1></br>
+  <h1>Controlador </h1></br>
+		
+		
   
 
  
